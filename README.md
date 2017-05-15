@@ -1,2 +1,2 @@
 # HelloWorldSpark
-A HelloWorld application using the Spark framework
+A HelloWorld application using the Spark framework.
